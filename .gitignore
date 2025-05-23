@@ -1,3 +1,7 @@
 
 /node_modules
 /browser_components
+
+cypress/fixtures/fileName.pdf
+
+cypress/fileName.pdf
