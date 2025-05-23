@@ -18,6 +18,7 @@ describe('File Upload', () => {
     it('upload file using plugin method',  ()=>{
     cy.get('input[type="file"]').attachFile('fileName.pdf')
         
+    
     });
    
 
